@@ -1,0 +1,39 @@
+[
+    {
+        "full_name": "Димоныч",
+        "position": "Фермер",
+        "email": "pep@gmail.com",
+        "preferences": [
+            "Овощи",
+            "фрукты",
+            "автоматизация сбора урожая"
+        ]
+    },
+    {
+        "full_name": "Артёмов Данил Степаныч",
+        "position": "Менеджер",
+        "email": "mem@gmail.com",
+        "preferences": [
+            "Оружие",
+            "менеджмент",
+            "поставки оружия"
+        ]
+    },
+    {
+        "full_name": "Мамочкова Дарья Димоновна",
+        "position": "Дизайнер",
+        "email": "ses@gmail.com",
+        "preferences": [
+            "Маркетинг",
+            "продвижение товаров"
+        ]
+    },
+    {
+        "full_name": "Шарабудинов Барабудин Дабудаевец",
+        "position": "Клиент",
+        "email": "hearteated@gmail.com",
+        "preferences": [
+            "Покупка деловых бумаг"
+        ]
+    }
+]
